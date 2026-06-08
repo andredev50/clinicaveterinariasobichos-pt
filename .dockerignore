@@ -1,0 +1,14 @@
+node_modules
+build
+.git
+.cache
+.react-router
+.vercel
+.opencode
+*.log
+npm-debug.log*
+.env
+.env.*
+Dockerfile.dev
+.DS_Store
+README.md

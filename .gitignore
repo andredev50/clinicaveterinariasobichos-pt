@@ -1,0 +1,18 @@
+.DS_Store
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+node_modules
+dist
+build
+.vercel
+.opencode
+deploy-tail.sh
+bootstrap.sh
+bundle.zip
+pw-deploy-tail.sh
+pw-bootstrap.sh
+pw-bundle.zip
